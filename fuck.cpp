@@ -14,5 +14,6 @@ bool test
 int main()
 {
     cout << "wft" << endl;
+    test();
     return 0;
 }
